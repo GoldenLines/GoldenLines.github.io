@@ -1,0 +1,196 @@
+.App {
+  text-align: center;
+}
+
+/* AJ's photo styles */
+
+.me-container {
+  padding: 20px;
+  background-color: white;
+  border: 1px solid black; 
+  width: 100%;
+  height: 500px;
+}
+
+.me-container .me {
+  max-height: 400px;
+  max-width: 400px;
+  min-height: 100px;
+  min-width: 100px;
+} 
+
+/* Head Bar*/ 
+
+.main-head { 
+  min-height: 300px;
+  display: flex;
+  flex-wrap: nowrap;
+  background-color: black;
+}
+
+.intro {
+  border: 1px solid black;
+  width: calc(50% - 1px); 
+  color: white; 
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; 
+  padding-top: 3.50%;
+}
+
+.contacts { 
+  border: 1px solid black;
+  width: calc(50% - 1px);
+  float: right;
+  padding-top: 250px;
+}
+
+
+
+.b {
+  margin-right: 15px;
+  width: 65px;
+  height: 65px;
+}
+
+
+/* Left Side Of Page #1 */
+
+.left-right-body {
+  display: flex; 
+  margin: 10px;
+
+}
+
+.left {
+  margin: 1px; 
+  width: calc(50% - 1PX);
+
+}
+
+.left .picture img {
+  width: 420px;
+  height: 420px;
+  margin: 75px;
+}
+
+.left .picture .my-picture {
+
+}
+
+.left .button-lineup {
+  width: 50%;
+  margin-left: calc(50% - 225px);
+  background-color: black;
+  padding: 50px;
+  height: 500px;
+  padding-top: 13%;
+}
+
+.left .button-lineup button {
+  display: block;
+  margin-bottom: 25px;
+  width: 150px;
+  height: 75px;
+  margin-left: calc(50% - 75px);
+}
+
+.left .button-line .bar-button {
+
+}
+
+
+/* Right Side Of Page #1 */
+
+.right {
+  margin: 1px; 
+  width: calc(50% - 1PX);
+  list-style-type: none;
+}
+
+.right .skills {
+  margin-top: 100px;
+  font-size: 20px;
+  margin-right: 20px;
+
+}
+
+.right .exp {
+  width: 400px;
+  margin-left: 250px;
+  margin-top: 100px;
+  font-size: 20px;
+}
+
+.skills ul li {
+  list-style-type: none;
+  margin-bottom: 10px;
+}
+
+.exp ul li {
+  list-style-type: none;
+  margin-bottom: 30px;
+}
+
+.my-skills-head {
+  margin-left: 40px;
+  margin-bottom: 30px;
+}
+
+
+/* Middle Line */
+
+.center-line {
+  border-left: 6px solid black;
+  height: 135%;
+  margin-left:950px;
+  position:absolute
+}
+
+body {
+  background-color: white;
+}
+
+
+/* Page Two */
+
+.page-two {
+  padding-top: 200px;
+}
+
+ .top-of-page-two {
+  height: 56px;
+  background-color:black
+}
+
+
+/* Mockups Section */
+.mockups-title-section {
+  margin-top: 50px;
+}
+
+.mockups-title {
+  font-style: oblique  
+}
+
+.mockup-section {
+  margin-top: 50px;
+}
+
+
+/* Copy Section */
+
+.copy-section {
+  margin-top: 50px;
+}
+
+.copy-title {
+  font-style: oblique  
+}
+
+.my-work-page {
+  margin-top: 100px;
+}
+
+.line-space {
+  padding-top: 40px;
+}
+
