@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/porfolio/static/css/main.33c9dfe1.css",
-    "main.js": "/porfolio/static/js/main.8a5d2554.js",
-    "static/js/787.202b8111.chunk.js": "/porfolio/static/js/787.202b8111.chunk.js",
-    "static/media/mywork.png": "/porfolio/static/media/mywork.de7673af5dc3ac5092c5.png",
-    "static/media/me.jpg": "/porfolio/static/media/me.b85fce9c85544d273df6.jpg",
-    "static/media/mockups.png": "/porfolio/static/media/mockups.7f389c508824258e2b4a.png",
-    "index.html": "/porfolio/index.html",
-    "main.33c9dfe1.css.map": "/porfolio/static/css/main.33c9dfe1.css.map",
-    "main.8a5d2554.js.map": "/porfolio/static/js/main.8a5d2554.js.map",
-    "787.202b8111.chunk.js.map": "/porfolio/static/js/787.202b8111.chunk.js.map"
+    "main.css": "/GoldenLines/static/css/main.33c9dfe1.css",
+    "main.js": "/GoldenLines/static/js/main.3cd153d4.js",
+    "static/js/787.202b8111.chunk.js": "/GoldenLines/static/js/787.202b8111.chunk.js",
+    "static/media/mywork.png": "/GoldenLines/static/media/mywork.de7673af5dc3ac5092c5.png",
+    "static/media/me.jpg": "/GoldenLines/static/media/me.b85fce9c85544d273df6.jpg",
+    "static/media/mockups.png": "/GoldenLines/static/media/mockups.7f389c508824258e2b4a.png",
+    "index.html": "/GoldenLines/index.html",
+    "main.33c9dfe1.css.map": "/GoldenLines/static/css/main.33c9dfe1.css.map",
+    "main.3cd153d4.js.map": "/GoldenLines/static/js/main.3cd153d4.js.map",
+    "787.202b8111.chunk.js.map": "/GoldenLines/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c9dfe1.css",
-    "static/js/main.8a5d2554.js"
+    "static/js/main.3cd153d4.js"
   ]
 }
