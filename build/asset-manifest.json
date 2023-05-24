@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/goldenlines.github.io/goldenlines.github.io/static/css/main.33c9dfe1.css",
-    "main.js": "/goldenlines.github.io/goldenlines.github.io/static/js/main.67f9c2bc.js",
-    "static/js/787.202b8111.chunk.js": "/goldenlines.github.io/goldenlines.github.io/static/js/787.202b8111.chunk.js",
-    "static/media/mywork.png": "/goldenlines.github.io/goldenlines.github.io/static/media/mywork.de7673af5dc3ac5092c5.png",
-    "static/media/me.jpg": "/goldenlines.github.io/goldenlines.github.io/static/media/me.b85fce9c85544d273df6.jpg",
-    "static/media/mockups.png": "/goldenlines.github.io/goldenlines.github.io/static/media/mockups.7f389c508824258e2b4a.png",
-    "index.html": "/goldenlines.github.io/goldenlines.github.io/index.html",
-    "main.33c9dfe1.css.map": "/goldenlines.github.io/goldenlines.github.io/static/css/main.33c9dfe1.css.map",
-    "main.67f9c2bc.js.map": "/goldenlines.github.io/goldenlines.github.io/static/js/main.67f9c2bc.js.map",
-    "787.202b8111.chunk.js.map": "/goldenlines.github.io/goldenlines.github.io/static/js/787.202b8111.chunk.js.map"
+    "main.css": "/goldenlines.github.io/static/css/main.33c9dfe1.css",
+    "main.js": "/goldenlines.github.io/static/js/main.7a1921c3.js",
+    "static/js/787.202b8111.chunk.js": "/goldenlines.github.io/static/js/787.202b8111.chunk.js",
+    "static/media/mywork.png": "/goldenlines.github.io/static/media/mywork.de7673af5dc3ac5092c5.png",
+    "static/media/me.jpg": "/goldenlines.github.io/static/media/me.b85fce9c85544d273df6.jpg",
+    "static/media/mockups.png": "/goldenlines.github.io/static/media/mockups.7f389c508824258e2b4a.png",
+    "index.html": "/goldenlines.github.io/index.html",
+    "main.33c9dfe1.css.map": "/goldenlines.github.io/static/css/main.33c9dfe1.css.map",
+    "main.7a1921c3.js.map": "/goldenlines.github.io/static/js/main.7a1921c3.js.map",
+    "787.202b8111.chunk.js.map": "/goldenlines.github.io/static/js/787.202b8111.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.33c9dfe1.css",
-    "static/js/main.67f9c2bc.js"
+    "static/js/main.7a1921c3.js"
   ]
 }
