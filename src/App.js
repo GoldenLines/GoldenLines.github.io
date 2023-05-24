@@ -6,6 +6,7 @@ import twitter from '../src/images/twitter.png';
 import instagram from '../src/images/instagram.png';
 import mockups from '../src/images/mockups.png';
 import mywork from '../src/images/mywork.png';
+import certifications from '../src/images/certifications.png';
 import "../node_modules/bootstrap/dist/css/bootstrap.css";
 import './App.css';
 
@@ -119,8 +120,9 @@ let instagramPage = redirectToPage("https://www.instagram.com/justaj18_/");
               <a href='#page-2'>
               <Button click={() => {}} classNames={"btn btn-primary btn-lg"} txt={'Copy'}/> 
               </a>
-
+               <a href='#page-3'>
               <Button click={() => {}} classNames={"btn btn-primary btn-lg"} txt={'Certifications'}/> 
+              </a>
             </div>
           </div>
 
@@ -174,8 +176,28 @@ let instagramPage = redirectToPage("https://www.instagram.com/justaj18_/");
       </div>
     </div>
 
-      </body>
-      <footer>
+
+  <div className='page-four'></div>
+    <MyDivider />
+
+    <div className= 'certificate-section' id='page-3'>
+          <div className='cert-title'>
+            <h1 style={{ fontSize: 135 }}>My Certifications </h1>
+
+          <div className='line-space'> 
+            <MyDivider />
+          </div>
+        </div>
+
+      <div className='certificate-page'>
+        <SocialButton src={certifications}
+        className={" my-certifications "} 
+        click={() => {}} />
+        </div>
+      </div>
+
+           </body>
+         <footer>
       </footer>
     </div>
   );
